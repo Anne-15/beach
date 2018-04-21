@@ -1,0 +1,17 @@
+body{
+  background-color: lightblue;
+  background-image: url("images/download(1).jpeg");
+}
+h1{
+  color: navy;
+  margin: 20px
+}
+p.main{
+  text-align: center;
+  color: black;
+}
+p.column{
+  float: left;
+  color: navy;
+  text-shadow: black;
+}
